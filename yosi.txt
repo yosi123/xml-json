@@ -1,0 +1,19 @@
+<xml versio="1.0" standalone = "yes"?>
+<class>
+
+     <student>
+	    <name>Arik</name>
+		<grade name = "math" > 100 </grade>
+		<grade name = "bible" > 60 </grade>
+		<grade name = "more_code" > 70 </grade>
+		<grade name = "code" > 90 </grade>
+		<grade name = "bio" > 85 </grade>
+		</student>
+		
+</class>
+
+
+
+
+		
+	     
